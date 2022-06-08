@@ -1,0 +1,15 @@
+C:\Users\denis\source\repos\RA-Vector-HW\RA-Vector-HW\bin\Debug\net6.0\RA-Vector-HW.exe
+C:\Users\denis\source\repos\RA-Vector-HW\RA-Vector-HW\bin\Debug\net6.0\RA-Vector-HW.deps.json
+C:\Users\denis\source\repos\RA-Vector-HW\RA-Vector-HW\bin\Debug\net6.0\RA-Vector-HW.runtimeconfig.json
+C:\Users\denis\source\repos\RA-Vector-HW\RA-Vector-HW\bin\Debug\net6.0\RA-Vector-HW.dll
+C:\Users\denis\source\repos\RA-Vector-HW\RA-Vector-HW\bin\Debug\net6.0\RA-Vector-HW.pdb
+C:\Users\denis\source\repos\RA-Vector-HW\RA-Vector-HW\obj\Debug\net6.0\RA-Vector-HW.csproj.AssemblyReference.cache
+C:\Users\denis\source\repos\RA-Vector-HW\RA-Vector-HW\obj\Debug\net6.0\RA-Vector-HW.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\denis\source\repos\RA-Vector-HW\RA-Vector-HW\obj\Debug\net6.0\RA-Vector-HW.AssemblyInfoInputs.cache
+C:\Users\denis\source\repos\RA-Vector-HW\RA-Vector-HW\obj\Debug\net6.0\RA-Vector-HW.AssemblyInfo.cs
+C:\Users\denis\source\repos\RA-Vector-HW\RA-Vector-HW\obj\Debug\net6.0\RA-Vector-HW.csproj.CoreCompileInputs.cache
+C:\Users\denis\source\repos\RA-Vector-HW\RA-Vector-HW\obj\Debug\net6.0\RA-Vector-HW.dll
+C:\Users\denis\source\repos\RA-Vector-HW\RA-Vector-HW\obj\Debug\net6.0\refint\RA-Vector-HW.dll
+C:\Users\denis\source\repos\RA-Vector-HW\RA-Vector-HW\obj\Debug\net6.0\RA-Vector-HW.pdb
+C:\Users\denis\source\repos\RA-Vector-HW\RA-Vector-HW\obj\Debug\net6.0\RA-Vector-HW.genruntimeconfig.cache
+C:\Users\denis\source\repos\RA-Vector-HW\RA-Vector-HW\obj\Debug\net6.0\ref\RA-Vector-HW.dll
